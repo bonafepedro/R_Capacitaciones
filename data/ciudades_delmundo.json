@@ -1,0 +1,35 @@
+{
+  "sources": [
+    {
+      "name": "Mariano Crowe"
+    }
+  ], 
+  "extras": {
+    "Pais": "El pais", 
+    "Ciudad": "Nombre ciudad", 
+    "Continente": "Continente", 
+    "Departamento": "el departamenta", 
+    "Population": "Poblacion"
+  }, 
+  "description": "Ejemplo de dato liberados en taller sgp", 
+  "license": {
+    "type": "notspecified", 
+    "title": "License not specified"
+  }, 
+  "title": "Ciudades del mundo", 
+  "keywords": [
+    "economi", 
+    "geografia", 
+    "humanidad", 
+    "peru"
+  ], 
+  "resources": [
+    {
+      "path": "https://www.dropbox.com/s/c2ym9ysbeihg4ed/ciudades-del-mundo.csv?dl=1", 
+      "title": "Ciudades del mundo", 
+      "name": "ciudades-del-mundo", 
+      "format": "CSV"
+    }
+  ], 
+  "name": "ciudades-del-mundo"
+}
